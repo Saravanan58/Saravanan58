@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Saravanan58
 - 👀 I’m interested in Robotics and Self driving car
-- 🌱 I’m currently learning Self Drivng Car Nanodegree program and ROS
-- 💞️ I’m looking to collaborate on self driving cars and robotics projects
 - 📫 Reach me through mail s.saravanan5858@gmail.com
 
 <!---
