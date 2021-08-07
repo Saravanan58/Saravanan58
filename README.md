@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saravanan58
-- 👀 I’m interested in Robotics and Self driving car
+- 👀 I’m interested in Data Science and Self driving cars
 - 📫 Reach me through mail s.saravanan5858@gmail.com
 
 <!---
